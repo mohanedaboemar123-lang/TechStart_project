@@ -1,2 +1,35 @@
-# TechStart_project
-Enterprise network design and implementation using Cisco Packet Tracer, featuring VLSM subnetting, static routing, DHCP, DNS, HTTP, FTP, SSH, and ACL-based access control.
+# TechStart Enterprise Network
+Cisco Packet Tracer Network Design & Implementation
+
+## Overview
+
+## Network Architecture
+
+## Technologies & Concepts
+
+## IP Addressing & VLSM
+
+## Network Topology
+
+## Routing
+
+## DHCP
+
+## Network Services
+- DNS
+- HTTP
+- FTP
+
+## Network Security
+- SSH
+- Device hardening
+- ACL
+
+## Verification & Testing
+
+## Project Structure
+
+## Skills Demonstrated
+
+## Author
+Mohanad
