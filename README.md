@@ -1,6 +1,6 @@
 # TechStart Enterprise Network — Cisco Packet Tracer
 
-A complete enterprise network design and implementation for a fictional startup, **TechStart** — built as the final project for **COMP 3115 (Practical Network Principles)** at UCAS Gaza. The project covers the full lifecycle of a small enterprise network: VLSM addressing, device hardening, DHCP, core services (DNS/HTTP/FTP), static routing, and access-control security — all designed, configured, and verified in Cisco Packet Tracer.
+A complete enterprise network design and implementation for a fictional startup, **TechStart** — The project covers the full lifecycle of a small enterprise network: VLSM addressing, device hardening, DHCP, core services (DNS/HTTP/FTP), static routing, and access-control security — all designed, configured, and verified in Cisco Packet Tracer.
 
 ![Network Topology](assets/01-topology-full.jpg)
 
@@ -53,7 +53,7 @@ Static routing with default routes was chosen over a dynamic protocol like OSPF,
 
 DHCP hands out addresses automatically to end-user PCs in each department (with the first addresses in each pool excluded for infrastructure); servers and all network infrastructure use static addressing.
 
-## Bonus — Access Control Lists
+## Access Control Lists
 
 Two extended-ACL policies were layered on top of the base routing to demonstrate segmentation:
 
@@ -95,17 +95,12 @@ TechStart-Enterprise-Network/
 └── assets/                       # Screenshots referenced in this README
 ```
 
-> **Note:** add your `.pkt` file into the `docs/` (or root) folder before pushing — it isn't included in this generated package.
-
 ## Tools
 
 Cisco Packet Tracer · Static Routing · VLSM · DHCP · DNS/HTTP/FTP · SSH · Extended ACLs
 
-## Course
 
-**COMP 3115 — Practical Network Principles**, Computer Engineering Department, UCAS Gaza (2025/2026)
+## Engineer 
 
-## Author
-
-**Mohanad Ahmed Rashid Abu Ammar**
+**Mohanad A. R. AbuAmmar**
 Computer Science student, UCAS Gaza
