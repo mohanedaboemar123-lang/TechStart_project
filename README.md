@@ -99,8 +99,9 @@ TechStart-Enterprise-Network/
 
 Cisco Packet Tracer · Static Routing · VLSM · DHCP · DNS/HTTP/FTP · SSH · Extended ACLs
 
+---
+<div align="center">
 
-## Engineer 
+All rights reserved to Eng.Mohanad Abu Ammar
 
-**Mohanad A. R. AbuAmmar**
-Computer Science student, UCAS Gaza
+</div>
